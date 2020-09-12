@@ -1,14 +1,33 @@
-# moon
+**Moon**
 
-A new Flutter package.
+Built to make developing apps fast and more effiecint and bring the shine to your app!
 
-## Getting Started
+By Moon you can just get one dependency and use many utilities!
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+Moon has got these utils to help you:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+ - [x] Storage
+ - [x] Platform Info
+ - [x] System Info
+ - [x] Package Info
+ - [x] Device Info
+ - [x] Validator
+ - [x] Sanitizer
+ - [x] Http
+ - [x] File Pickers
+ - [x] Caching
+ - [x] Geolocation
+ - [x] Sharing
+
+
+Using it is as simple as you imaging you just need to type:
+
+    Moon.utilName
+
+Yeah it is as simple as this!
+
+
+Also I would give thanks to the developers of the packages I used.
+
+
+I hope you like it and Happy coding!
