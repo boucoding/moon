@@ -16,7 +16,6 @@ Moon has got these utils to help you:
  - [x] Http
  - [x] File Pickers
  - [x] Caching
- - [x] Geolocation
  - [x] Sharing
 
 

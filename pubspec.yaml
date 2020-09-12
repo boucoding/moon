@@ -13,14 +13,11 @@ dependencies:
     sdk: flutter
 
   hive:
-  provider:
-  string_validator:
   platform_info:
   device_info:
   system_info:
   package_info:
   flutter_cache_manager:
-  geolocator:
   share:
   dio:
   google_fonts:
