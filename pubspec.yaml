@@ -1,8 +1,8 @@
 name: moon
-description: A new Flutter package.
+description: created to shine in the developer world giving the easiest and fastest way to build a flutter app!
 version: 0.0.1
-author:
-homepage:
+author: Abdulrhman Ahmed
+homepage: https://github.com/boucoding/moon
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -12,9 +12,27 @@ dependencies:
   flutter:
     sdk: flutter
 
+  hive:
+  provider:
+  string_validator:
+  platform_info:
+  device_info:
+  system_info:
+  package_info:
+  flutter_cache_manager:
+  geolocator:
+  share:
+  dio:
+  google_fonts:
+  file_picker:
+  translator:
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
