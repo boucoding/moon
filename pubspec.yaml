@@ -1,7 +1,6 @@
 name: moon
 description: created to shine in the developer world giving the easiest and fastest way to build a flutter app!
-version: 0.0.1
-author: Abdulrhman Ahmed
+version: 0.0.2
 homepage: https://github.com/boucoding/moon
 
 environment:
@@ -12,17 +11,17 @@ dependencies:
   flutter:
     sdk: flutter
 
-  hive:
-  platform_info:
-  device_info:
-  system_info:
-  package_info:
-  flutter_cache_manager:
-  share:
-  dio:
-  google_fonts:
-  file_picker:
-  translator:
+  hive: ^1.4.4
+  platform_info: ^2.0.1
+  device_info: ^0.4.2+7
+  system_info: ^0.1.3
+  package_info: ^0.4.3
+  flutter_cache_manager: ^1.4.2
+  share: ^0.6.5
+  dio: ^3.0.10
+  google_fonts: ^1.1.0
+  file_picker: ^2.0.0
+  translator: ^0.1.5
 
 
 dev_dependencies:
